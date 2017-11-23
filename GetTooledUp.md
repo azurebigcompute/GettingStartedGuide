@@ -33,7 +33,7 @@ Azcopy is a utility for copying and moving files around to and from Azure or bet
 These days most of what you need for the common Azure Batch tasks is included in the Azure Batch CLI (see above) under the "az batch" sub-command. However, for the labs we will need some extra tools normally reserved for black belts: 
 
 1) **Batch Labs**
-Batch Labs is THE graphical tool for interacting with Azure Batch, and replaces the old Batch Explorer tool. You can <a href="https://azure.github.io/BatchLabs/">download the latest build for your operating system</a>.Batch Labs source code is also online <a href="https://github.com/Azure/BatchLabs">here</a>.
+Batch Labs is THE graphical tool for interacting with Azure Batch, and replaces the old Batch Explorer tool. You can <a href="https://azure.github.io/BatchLabs/">download the latest build</a> for your operating system. Batch Labs source code is also online <a href="https://github.com/Azure/BatchLabs">here</a>.
 
 2) **Azure Batch Shipyard**
 Batch Shipyard is a set of client-side tools that makes running container based Big Compute jobs on Azure Batch a breeze. Information and overview <a href="https://azure.github.io/batch-shipyard">here</a>. Clone the <a href="https://github.com/Azure/batch-shipyard">github repository</a> to your workstation and follow the install instructions linked on the main README. 
@@ -48,7 +48,18 @@ The <a href="https://github.com/Azure/azure-batch-cli-extensions">Batch CLI Exen
 
 In case you hadn't heard, infrastructure in the cloud is nothing but CODE. In Azure we call it ARM - Azure Resource Manager. 
 
-Get yourself a <a href="https://github.com/join">github account</a>. You'll find lots and lots of example templates including for HPC. Some examples:
+Get yourself a <a href="https://github.com/join">github account</a>. You'll find lots and lots of example templates, including plenty for HPC: 
+
+*<a href="https://github.com/Azure/AzureStack-QuickStart-Templates">General Azure Examples Repository</a>
+*<a href="https://github.com/tanewill/5clickTemplates">5 Click Templates for HPC Clusters & Apps</a>
+*<a href="https://github.com/xpillons/azure-hpc/tree/master/Compute-Grid-Infra">Production HPC Cluster Deployment</a>
+*<a href="https://github.com/mkiernan/FlexHPC">Simple, Flexible Modular, Multi-OS HPC Deployment</a>
 
 
 2) Visual Studio Code & Visual Studio
+
+If you want to getting into coding for Azure, here are two great expert tools that have direct Azure & Github integration: 
+
+<a href="https://code.visualstudio.com/">Visual Studio Code</a> is a free and lightweight version of Visual Studio, and is great for rapid code editing and github integration.  
+
+<a href="https://www.visualstudio.com/">Visual Studio</a> is the most comprehensive IDE on the planet, with cloud and mobile integration. This tool is a must for serious developers. 
