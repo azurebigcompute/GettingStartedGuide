@@ -8,6 +8,12 @@ A good option for Linux folks is to install the Linux tools into the Ubuntu Bash
 ***
 ## Universal & Essential Tools: 
 
+### Linux & Bash From Your Windows Desktop
+
+If you're going to be using Linux and you are using Windows 10 or later on your desktop, it's a good idea to install the new Linux/Bash capability. Find the instructions <a href="https://msdn.microsoft.com/en-us/commandline/wsl/install-win10">here</a>. You can run bash in the old CMD/DOS shell, but for a much more Linux-native experience, run the Ubuntu or SUSE shells directly (search in the start menu for eg: Ubuntu): 
+
+![ubuntu](ubuntu.PNG)
+
 ### Azure CLI - Command Line Interface to manage your Azure datacenter. 
 
 Azure CLI is THE tool to interact with Azure from the command line. You can use to create objects such as virtual machines, networks, scale-sets & clusters, storage, disks, and so on. Azure CLI download and instructions are available <a href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli">here.</a>
@@ -44,7 +50,7 @@ The <a href="https://github.com/Azure/azure-batch-cli-extensions">Batch CLI Exen
 ***
 
 ## Universal Azure Automation & Development Tools
-1) **Github & ARM Templates
+1) **Github & ARM Templates**
 
 In case you hadn't heard, infrastructure in the cloud is nothing but CODE. In Azure we call it ARM - Azure Resource Manager. 
 
@@ -56,7 +62,7 @@ Get yourself a <a href="https://github.com/join">github account</a>. You'll find
 * <a href="https://github.com/mkiernan/FlexHPC">Simple, Flexible Modular, Multi-OS HPC Deployment</a>
 
 
-2) **Visual Studio Code & Visual Studio
+2) **Visual Studio Code & Visual Studio**
 
 If you want to getting into coding for Azure, here are two great expert tools that have direct Azure & Github integration: 
 
