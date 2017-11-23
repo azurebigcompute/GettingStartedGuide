@@ -23,6 +23,9 @@ Azure CLI is THE tool to interact with Azure from the command line. You can use 
 
 Note that you can also invoke Azure CLI via the<a href="https://azure.microsoft.com/en-us/features/cloud-shell/">cloud shell</a> from the <a href="https://portal.azure.com">azure portal</a>.
 
+***
+## Storage & Data Management Tools:
+
 ### Storage Explorer - Utility to help you interact with Azure Storage & Your Data
 
 StorageExplorer is a feature-rich graphical tool for managing Azure Storage resources & data securely. Grab it from <a href="http://storageexplorer.com">storageexplorer.com</a>
