@@ -19,7 +19,9 @@ If you're going to be using Linux and you are using Windows 10 or later on your 
 
 Azure CLI is THE tool to interact with Azure from the command line. You can use to create objects such as virtual machines, networks, scale-sets & clusters, storage, disks, and so on. Azure CLI download and instructions are available <a href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli">here.</a>
 
-Note that you can also use <a href="https://azure.microsoft.com/en-us/features/cloud-shell/">cloud shell</a> from the <a href="https://portal.azure.com">azure portal</a>.
+![azcli](azcli.PNG)
+
+Note that you can also invoke Azure CLI via the<a href="https://azure.microsoft.com/en-us/features/cloud-shell/">cloud shell</a> from the <a href="https://portal.azure.com">azure portal</a>.
 
 ### Storage Explorer - Utility to help you interact with Azure Storage & Your Data
 
