@@ -30,6 +30,8 @@ StorageExplorer is a feature-rich graphical tool for managing Azure Storage reso
 * Copy Data to and from Azure, and across Azure storage containers & subscriptions. 
 * Share datasets and collaborate with your colleagues inside & outside your organization
 
+![storagexplorer](storagexplorer.PNG)
+
 ### AzCopy - Utility for copying large datasets in and out of Azure efficiently. 
 Azcopy is a utility for copying and moving files around to and from Azure or between Azure storage containers. It's more effiicent at copying large datasets comprised or large files or millions of small files, and can easily be incorporated into scripts. 
 
