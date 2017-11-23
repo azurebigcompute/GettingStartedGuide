@@ -4,6 +4,8 @@ Before you begin to work with Azure Big Compute & HPC, we recommend that you tak
 
 Most of these tools are universal and run on Linux, Windows or MacOS. 
 
+If you are looking for a quick platform to start working with Big Compute, then the <a href="https://github.com/azurebigcompute/BigComputeBench">BigComputeBench</a> ARM template is a great way to get started fast. 
+
 ***
 ## Universal & Essential Tools: 
 
@@ -66,6 +68,5 @@ Get yourself a <a href="https://github.com/join">github account</a>. You'll find
 
 If you want to getting into coding for Azure, here are two great expert tools that have direct Azure & Github integration: 
 
-<a href="https://code.visualstudio.com/">Visual Studio Code</a> is a free and lightweight version of Visual Studio, and is great for rapid code editing and github integration.  
-
-<a href="https://www.visualstudio.com/">Visual Studio</a> is the most comprehensive IDE on the planet, with cloud and mobile integration. This tool is a must for serious developers. 
+* <a href="https://code.visualstudio.com/">Visual Studio Code</a> is a free and lightweight version of Visual Studio, and is great for rapid code editing and github integration.  
+* <a href="https://www.visualstudio.com/">Visual Studio</a> is the most comprehensive IDE on the planet, with cloud and mobile integration. This tool is a must for serious developers. 
