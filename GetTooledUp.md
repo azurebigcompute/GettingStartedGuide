@@ -49,6 +49,8 @@ These days most of what you need for the common Azure Batch tasks is included in
 ### Batch Labs - Interactive Graphical Tool for Managing Azure Batch
 Batch Labs is THE graphical tool for interacting with Azure Batch, and replaces the old Batch Explorer tool. You can <a href="https://azure.github.io/BatchLabs/">download the latest build</a> for your operating system. Batch Labs source code is also online <a href="https://github.com/Azure/BatchLabs">here</a>.
 
+![batchlabs](batchlabs.PNG)
+
 ### Azure Batch Shipyard - Deploy Containers at Scale
 Batch Shipyard is a set of client-side tools that makes running container based Big Compute jobs on Azure Batch a breeze. Information and overview <a href="https://azure.github.io/batch-shipyard">here</a>. Clone the <a href="https://github.com/Azure/batch-shipyard">github repository</a> to your workstation and follow the install instructions linked on the main README. 
 
