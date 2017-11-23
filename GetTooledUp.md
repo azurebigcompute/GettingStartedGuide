@@ -4,13 +4,12 @@ Before you begin to work with Azure Big Compute & HPC, we recommend that you tak
 
 Most of these tools are universal and run on Linux, Windows or MacOS. 
 
-A good option for Linux folks is to install the Linux tools into the Ubuntu Bash shell on Windows 10. There is a quick HOWTO on enabling bash for windows <a href="https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10">here</a>.
 ***
 ## Universal & Essential Tools: 
 
 ### Linux & Bash From Your Windows Desktop
 
-If you're going to be using Linux and you are using Windows 10 or later on your desktop, it's a good idea to install the new Linux/Bash capability. Find the instructions <a href="https://msdn.microsoft.com/en-us/commandline/wsl/install-win10">here</a>. You can run bash in the old CMD/DOS shell, but for a much more Linux-native experience, run the Ubuntu or SUSE shells directly (search in the start menu for eg: Ubuntu): 
+If you're going to be using Linux and you are using Windows 10 or later on your desktop, it's a good idea to install the new Linux/Bash capability. Find the instructions <a href="https://msdn.microsoft.com/en-us/commandline/wsl/install-win10">here</a> and <a href="https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10">here</a>. You can run bash in the old CMD/DOS shell, but for a much more Linux-native experience, run the Ubuntu or SUSE shells directly (search in the start menu for eg: Ubuntu): 
 
 ![ubuntu](ubuntu.PNG)
 
@@ -38,19 +37,20 @@ Azcopy is a utility for copying and moving files around to and from Azure or bet
 
 These days most of what you need for the common Azure Batch tasks is included in the Azure Batch CLI (see above) under the "az batch" sub-command. However, for the labs we will need some extra tools normally reserved for black belts: 
 
-1) **Batch Labs**
+### Batch Labs - Interactive Graphical Tool for Managing Azure Batch
 Batch Labs is THE graphical tool for interacting with Azure Batch, and replaces the old Batch Explorer tool. You can <a href="https://azure.github.io/BatchLabs/">download the latest build</a> for your operating system. Batch Labs source code is also online <a href="https://github.com/Azure/BatchLabs">here</a>.
 
-2) **Azure Batch Shipyard**
+### Azure Batch Shipyard - Deploy Containers at Scale
 Batch Shipyard is a set of client-side tools that makes running container based Big Compute jobs on Azure Batch a breeze. Information and overview <a href="https://azure.github.io/batch-shipyard">here</a>. Clone the <a href="https://github.com/Azure/batch-shipyard">github repository</a> to your workstation and follow the install instructions linked on the main README. 
 
-3) **Azure Batch CLI Extensions (Preview)**
+### Azure Batch CLI Extensions (Preview) - Task Factory, JSON Templates & More
 The <a href="https://github.com/Azure/azure-batch-cli-extensions">Batch CLI Exensions</a> provide a bunch of new advanced functionality for Azure Batch from the CLI including shipyard style templates, Task Factory, automated file upload/download and new package management features. After installing Azure Batch CLI, follow the instructions on the github README to install the extensions. 
 
 ***
 
 ## Universal Azure Automation & Development Tools
-1) **Github & ARM Templates**
+
+### Github & ARM Templates
 
 In case you hadn't heard, infrastructure in the cloud is nothing but CODE. In Azure we call it ARM - Azure Resource Manager. 
 
@@ -62,7 +62,7 @@ Get yourself a <a href="https://github.com/join">github account</a>. You'll find
 * <a href="https://github.com/mkiernan/FlexHPC">Simple, Flexible Modular, Multi-OS HPC Deployment</a>
 
 
-2) **Visual Studio Code & Visual Studio**
+### Visual Studio Code & Visual Studio
 
 If you want to getting into coding for Azure, here are two great expert tools that have direct Azure & Github integration: 
 
