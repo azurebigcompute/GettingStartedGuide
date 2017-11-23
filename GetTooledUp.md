@@ -44,19 +44,19 @@ The <a href="https://github.com/Azure/azure-batch-cli-extensions">Batch CLI Exen
 ***
 
 ## Universal Azure Automation & Development Tools
-1) Github & ARM Templates
+1) **Github & ARM Templates
 
 In case you hadn't heard, infrastructure in the cloud is nothing but CODE. In Azure we call it ARM - Azure Resource Manager. 
 
 Get yourself a <a href="https://github.com/join">github account</a>. You'll find lots and lots of example templates, including plenty for HPC: 
 
-*<a href="https://github.com/Azure/AzureStack-QuickStart-Templates">General Azure Examples Repository</a>
-*<a href="https://github.com/tanewill/5clickTemplates">5 Click Templates for HPC Clusters & Apps</a>
-*<a href="https://github.com/xpillons/azure-hpc/tree/master/Compute-Grid-Infra">Production HPC Cluster Deployment</a>
-*<a href="https://github.com/mkiernan/FlexHPC">Simple, Flexible Modular, Multi-OS HPC Deployment</a>
+* <a href="https://github.com/Azure/AzureStack-QuickStart-Templates">General Azure Examples Repository</a>
+* <a href="https://github.com/tanewill/5clickTemplates">5 Click Templates for HPC Clusters & Apps</a>
+* <a href="https://github.com/xpillons/azure-hpc/tree/master/Compute-Grid-Infra">Production HPC Cluster Deployment</a>
+* <a href="https://github.com/mkiernan/FlexHPC">Simple, Flexible Modular, Multi-OS HPC Deployment</a>
 
 
-2) Visual Studio Code & Visual Studio
+2) **Visual Studio Code & Visual Studio
 
 If you want to getting into coding for Azure, here are two great expert tools that have direct Azure & Github integration: 
 
